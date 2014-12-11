@@ -5,7 +5,7 @@ textures and ideas for my bros upcoming mod
 please fork i need ideas
 A mod with dimensions and more dimensions within them. - kneelawk
 
-
+go to https://github.com/Kneelawk/AcrossDimensions for kneelawks things
 
 The MIT License (MIT)
 
